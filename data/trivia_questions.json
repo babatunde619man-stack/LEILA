@@ -1,0 +1,122 @@
+[
+  {
+    "question": "What color do you get when you mix red and yellow?",
+    "options": ["Green", "Orange", "Purple", "Brown"],
+    "answer": 1,
+    "explanation": "Red and yellow make orange — classic color wheel combo."
+  },
+  {
+    "question": "Which animal is known for laughing?",
+    "options": ["Hyena", "Elephant", "Penguin", "Sloth"],
+    "answer": 0,
+    "explanation": "Hyenas are famous for their laugh-like vocalizations."
+  },
+  {
+    "question": "What’s the name of the tool used to drive nails?",
+    "options": ["Wrench", "Hammer", "Saw", "Drill"],
+    "answer": 1,
+    "explanation": "Hammers are designed to drive nails into wood or other materials."
+  },
+  {
+    "question": "Which fruit has its seeds on the outside?",
+    "options": ["Apple", "Strawberry", "Banana", "Grape"],
+    "answer": 1,
+    "explanation": "Strawberries are unique — their seeds are on the outside."
+  },
+  {
+    "question": "What’s the opposite of 'construct'?",
+    "options": ["Build", "Design", "Demolish", "Hammer"],
+    "answer": 2,
+    "explanation": "To demolish is to tear down — the opposite of constructing."
+  },
+  {
+    "question": "Which of these is NOT a type of screw head?",
+    "options": ["Phillips", "Flat", "Star", "Circle"],
+    "answer": 3,
+    "explanation": "Circle isn’t a screw head — the others are common types."
+  },
+  {
+    "question": "What’s the main ingredient in guacamole?",
+    "options": ["Tomato", "Avocado", "Lettuce", "Cucumber"],
+    "answer": 1,
+    "explanation": "Avocados are the creamy base of guacamole."
+  },
+  {
+    "question": "Which of these is a type of pasta?",
+    "options": ["Rigatoni", "Ravioli", "Rotini", "All of the above"],
+    "answer": 3,
+    "explanation": "All listed are pasta types — tubular, stuffed, and spiral."
+  },
+  {
+    "question": "What does a trowel do?",
+    "options": ["Mix paint", "Spread mortar", "Cut wood", "Measure angles"],
+    "answer": 1,
+    "explanation": "Trowels are used to spread mortar or plaster smoothly."
+  },
+  {
+    "question": "Which of these is a palindrome?",
+    "options": ["Racecar", "Hammer", "Brick", "Toolbox"],
+    "answer": 0,
+    "explanation": "Racecar reads the same forwards and backwards — a palindrome."
+  },
+  {
+    "question": "What’s the name of the part of a plant that absorbs water?",
+    "options": ["Stem", "Leaf", "Root", "Flower"],
+    "answer": 2,
+    "explanation": "Roots absorb water and nutrients from the soil."
+  },
+  {
+    "question": "Which of these is NOT edible?",
+    "options": ["Cauliflower", "Cement", "Carrot", "Potato"],
+    "answer": 1,
+    "explanation": "Cement is for buildings, not burritos."
+  },
+  {
+    "question": "What’s the name of the famous clock in London?",
+    "options": ["Big Ben", "Clockzilla", "Time Tower", "TickTock HQ"],
+    "answer": 0,
+    "explanation": "Big Ben is the nickname for the Great Bell of the clock."
+  },
+  {
+    "question": "Which of these animals lays eggs?",
+    "options": ["Dog", "Cat", "Chicken", "Horse"],
+    "answer": 2,
+    "explanation": "Chickens lay eggs — breakfast champions."
+  },
+  {
+    "question": "What’s the name of the tool used to cut wood?",
+    "options": ["Saw", "Hammer", "Wrench", "Level"],
+    "answer": 0,
+    "explanation": "Saws are designed to cut through wood and other materials."
+  },
+  {
+    "question": "Which of these is a type of dance?",
+    "options": ["Salsa", "Mortar", "Scaffold", "Drill"],
+    "answer": 0,
+    "explanation": "Salsa is a spicy dance style — not just a condiment."
+  },
+  {
+    "question": "What’s the name of the process of turning liquid into gas?",
+    "options": ["Condensation", "Evaporation", "Freezing", "Melting"],
+    "answer": 1,
+    "explanation": "Evaporation is when liquid turns into vapor."
+  },
+  {
+    "question": "Which of these is a type of cheese?",
+    "options": ["Cheddar", "Concrete", "Drywall", "Gravel"],
+    "answer": 0,
+    "explanation": "Cheddar is delicious. The others are better in buildings."
+  },
+  {
+    "question": "What’s the name of the tool used to check if something is level?",
+    "options": ["Hammer", "Spirit Level", "Drill", "Tape Measure"],
+    "answer": 1,
+    "explanation": "A spirit level shows if a surface is horizontal or vertical."
+  },
+  {
+    "question": "Which of these is a type of cloud?",
+    "options": ["Cumulus", "Scaffoldus", "Brickus", "Mortarus"],
+    "answer": 0,
+    "explanation": "Cumulus clouds are fluffy and white — not construction-themed."
+  }
+]
